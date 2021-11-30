@@ -1,4 +1,4 @@
-### Hi there I'm Bilin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there I'm Bilin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Bilin P Oommen, a 20-year old tech enthusiast who does CyberSecurity and Software Development.<br>
 <img align="left" src="https://github.com/raison024/raison024/blob/main/mrrobot.gif" width="300" height="400" />
 ### 📫 How to reach me: 
