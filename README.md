@@ -9,7 +9,7 @@ I'm Bilin, a 22-year old tech enthusiast who's into CyberSecurity and Pentesting
   <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a><br><br>
 
-- 🌱 I’m currently learning Android Pentesting and Website Development<br>
+- 🌱 I’m currently learning Website Pentesting and Cryptography<br>
 - 💼 any freelance work? do reach, email :)
 
 ![Bilin's github stats](https://github-readme-stats.vercel.app/api?username=billy54321&show_icons=true&theme=dark)
